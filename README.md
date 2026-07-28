@@ -1,4 +1,4 @@
-# I'm a Computer Science graduate interested in software and game development.
+# Computer Science graduate interested in software and game development.
 
 ## Languages
 - Python
