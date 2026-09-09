@@ -19,4 +19,3 @@
 
 ## Contact
 - Email: k.kocis2002@gmail.com
-- Discord: just_well
