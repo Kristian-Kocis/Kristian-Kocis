@@ -15,7 +15,8 @@
 
 - Text Steganography using Zero-Width Characters
 - Solitaire developed with Three.js
-- 3D Unity Model recreation of church building
+- Server Inventory App developed with ASP.NET
+- 3D Unity Model recreation of a church building
 
 ## Contact
 - Email: k.kocis2002@gmail.com
